@@ -1249,7 +1249,7 @@ footer .container .section a:hover {
     align-items: center;
     transition: 0.3s;
     box-shadow: 0 0 3px #eee;
-    z-index: 1000;
+    z-index: 10000;
 }
 
 .btn-whatsapp:hover {
